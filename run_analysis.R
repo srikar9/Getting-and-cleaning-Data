@@ -110,4 +110,4 @@ tidyData <- aggregate(finalDataNoActivityType[,names(finalDataNoActivityType) !=
 
 ## Export the tidyData set
 
-write.table(tidyData, './tidyData.txt',row.
+write.table(tidyData, './tidyData.txt',row.names = FALSE,sep='\t')
