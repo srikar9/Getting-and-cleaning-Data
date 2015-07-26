@@ -9,7 +9,7 @@
 
 # setting the working directory.
 
-setwd("E:/Srikar's/Coursera Video Lectures/GCD/UCI HAR Dataset")
+setwd("E:/SRIKAR/Coursera/coursera/UCI HAR Dataset")
 
 ## Reading data from files
 
